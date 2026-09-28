@@ -1,0 +1,15 @@
+CLINICAL PROGRESS NOTE
+Patient: John Doe (P001)
+
+Chief complaint: Chronic lower back pain.
+
+History of present illness:
+The patient reports persistent lower back pain for 10 weeks. The pain is
+described as a dull, aching discomfort in the lumbar region that worsens with
+prolonged sitting. Conservative management was initiated early in the course of
+care. The patient has completed a supervised physiotherapy program for 8 weeks,
+attending sessions regularly with partial symptomatic relief.
+
+Assessment and plan:
+Continue conservative care. Patient remains a candidate for further evaluation
+given the documented duration of symptoms and completed physiotherapy.

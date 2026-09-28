@@ -1,0 +1,13 @@
+{
+  "rules_text": "Prior Authorization policy for conservative back-pain management. A request may be Approved only when the member's benefit plan is active AND the documented duration of back pain meets or exceeds the minimum pain threshold AND the documented duration of completed physiotherapy meets or exceeds the minimum physiotherapy threshold. When the plan is inactive, or when any documented duration falls below its threshold, the request must be Denied. When a required clinical duration is not documented at all, additional information must be requested before a determination can be made.",
+  "evaluation_order": [
+    "check_plan_active",
+    "check_pain_weeks_threshold",
+    "check_physio_weeks_threshold",
+    "check_missing_information"
+  ],
+  "thresholds": {
+    "min_pain_weeks": 6,
+    "min_physio_weeks": 6
+  }
+}

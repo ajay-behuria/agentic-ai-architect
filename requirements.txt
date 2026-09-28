@@ -1,0 +1,13 @@
+# Core orchestration & protocol
+langgraph>=0.2.28
+# Official MCP Python SDK, pinned to the stable v1 API (FastMCP + stdio client).
+mcp>=1.2.0,<2.0
+
+# Data modeling & configuration
+pydantic>=2.6
+python-dotenv>=1.0
+
+# LLM client framework (structured output for the Reader agent)
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-anthropic>=0.2.0

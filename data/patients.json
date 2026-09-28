@@ -1,0 +1,14 @@
+{
+  "P001": {
+    "name": "John Doe",
+    "plan_active": true
+  },
+  "P002": {
+    "name": "Jane Smith",
+    "plan_active": false
+  },
+  "P003": {
+    "name": "Alice Jones",
+    "plan_active": true
+  }
+}

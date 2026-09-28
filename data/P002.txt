@@ -1,0 +1,14 @@
+CLINICAL PROGRESS NOTE
+Patient: Jane Smith (P002)
+
+Chief complaint: Ongoing back pain.
+
+History of present illness:
+The patient reports back pain for 12 weeks that has been slowly progressive.
+The discomfort is localized to the lower back without radiation to the lower
+extremities. As part of conservative management, the patient completed a course
+of physiotherapy for 8 weeks with modest improvement in mobility.
+
+Assessment and plan:
+Symptoms and completed physiotherapy are well documented. Continue to monitor
+and reassess as clinically indicated.

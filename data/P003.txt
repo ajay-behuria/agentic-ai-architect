@@ -1,0 +1,14 @@
+CLINICAL PROGRESS NOTE
+Patient: Alice Jones (P003)
+
+Chief complaint: Lower back pain.
+
+History of present illness:
+The patient reports back pain for 9 weeks. The pain is intermittent and
+aggravated by lifting and bending. The patient describes difficulty with certain
+daily activities but remains ambulatory. No radicular symptoms are reported at
+this time.
+
+Assessment and plan:
+Recommend continued conservative measures and follow-up. Additional history to
+be gathered at the next visit.
